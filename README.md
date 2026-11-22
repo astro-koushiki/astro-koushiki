@@ -3,11 +3,13 @@
 * an ambitious high school senior, sailplane pilot (soon will be) exploring quantum world through python while working toward research lab opportunities .
 ---
 ### current interests 
+* astrophysics.
 * quantum mechanics.
 * aviation.
-* telemetry
-* python program
-* mathematics
+* fluid dynamics. 
+* telemetry.
+* python program.
+* mathematics.
  --- 
 ### current stack 
 * **mathematics specifically** :calculus, linear algebra ,  high school level geometry and mathematical foundation behind quantum mechanics 
