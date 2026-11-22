@@ -19,6 +19,7 @@
  * hobby pilot
  * exploration
  * become astronaut
+ * become suuuuper hero
  * make world a better place
 
 ### reach out : astro.seeker.koushiki@gmail.com
